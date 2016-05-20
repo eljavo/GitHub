@@ -27,14 +27,17 @@
         android:id="@+id/button"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+        android:text="El Kuma was here"
+        android:id="@+id/textView" />
+
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LeNueve"
-        android:id="@+id/button2"
-        android:layout_below="@+id/button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="55dp" />
-
+        android:text="El javo button"
+        android:id="@+id/OtroBton"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    android:text="El Kuma was here"
+    android:id="@+id/textView" />
 </RelativeLayout>
